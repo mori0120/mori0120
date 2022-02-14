@@ -3,7 +3,7 @@
   I have a bachelor's degree in mechanical engineering and a master's degree in semiconductor engineering in Kyoto university.
   I want to become a programmer in the future and I am currently studying. 
 - 👀 I’m interested in Web application and AI.
-- 🌱 I’m currently learning Jave, JavaScript, Vue.js, Python and SQL.
+- 🌱 I’m currently learning Java, JavaScript, Vue.js, Python and SQL.
 - 📫 How to reach me. (Twitter: https://twitter.com/yasu_cs_English)
 
 <!---
